@@ -1,7 +1,7 @@
 # Pdf-Splitter
 Build and deploy a python flask application to split pdfs
 
-Demo : https://pdfsplitter.pythonanywhere.com/
+Demo : http://rsingla10.pythonanywhere.com/
 
 # Installation
 > pip install flask
